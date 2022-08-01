@@ -1,0 +1,9 @@
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\bin\Debug\DataAccessObject.dll
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\bin\Debug\DataAccessObject.pdb
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\bin\Debug\BeanRespository.dll
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\bin\Debug\BeanRespository.pdb
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\obj\Debug\DataAccessObject.csproj.AssemblyReference.cache
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\obj\Debug\DataAccessObject.csproj.CoreCompileInputs.cache
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\obj\Debug\DataAccessObject.csproj.CopyComplete
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\obj\Debug\DataAccessObject.dll
+C:\Users\Ranjit\source\repos\StudentFrom\DataAccessObject\obj\Debug\DataAccessObject.pdb

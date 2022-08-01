@@ -1,0 +1,6 @@
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\bin\Debug\BeanRespository.dll
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\bin\Debug\BeanRespository.pdb
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\obj\Debug\BeanRespository.csproj.AssemblyReference.cache
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\obj\Debug\BeanRespository.csproj.CoreCompileInputs.cache
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\obj\Debug\BeanRespository.dll
+C:\Users\Ranjit\source\repos\StudentFrom\BeanRespository\obj\Debug\BeanRespository.pdb
